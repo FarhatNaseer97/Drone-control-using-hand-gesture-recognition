@@ -15,7 +15,7 @@ Turn on bluetooth of your Laptop and  turn On your mambo-drone.
 
 **Runnig the code**<br/>
 Clone the repository
-1. Open the terminal using ctrl+AltTab<br/>
+1. Open the terminal using ctrl+Alt+Tab<br/>
 2. Run the Server.py file by typing the below command in terminal<br/>
 ```
 python3 server.py
