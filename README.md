@@ -5,11 +5,8 @@ This project implements a real-time hand gesture recognition system to control a
 
 **Features:**<br/>
 - Hand Gesture Recognition: Uses OpenCV and MediaPipe to detect and interpret hand gestures.
-
 - Smooth Movement: Optimized for minimal latency in transmitting control commands.
-
 - WebSocket Communication: Ensures low-latency, real-time drone control.
-
 - Flexible & Extendable: Can be adapted for various types of drones and expanded with additional gestures.
 
 **Pre-requisite:**<br/>
