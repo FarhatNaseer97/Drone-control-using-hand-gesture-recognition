@@ -1,4 +1,8 @@
 # Drone-control-using-hand-gesture-recognition
+
+**Overview:**<br/>
+This project implements a real-time hand gesture recognition system to control a drone using computer vision and web sockets. By leveraging OpenCV and MediaPipe, the system detects and tracks hand gestures, which are then translated into drone commands. Web sockets are used to ensure smooth movement and reduce lag between data frames, providing a seamless control experience.
+
 **Pre-requisite:**<br/>
 ```
 A pyparrot mambo dorne
