@@ -29,4 +29,6 @@ python3 server.py
  ```
  python3 client.py
  ```
- 
+**Research paper**<br/>
+This project is based on research published in IEEE:
+<a href="https://ieeexplore.ieee.org/document/9828347" target="_blank">Deep Learning-Based Unmanned Aerial Vehicle Control with Hand Gesture and Computer Vision</a> 
