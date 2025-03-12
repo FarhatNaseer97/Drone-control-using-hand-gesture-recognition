@@ -1,0 +1,5 @@
+OpenCV==4.5
+MediaPipe==0.8.5
+Tensprflow==2.5.0
+Numpy==1.19.3
+pyparrot
