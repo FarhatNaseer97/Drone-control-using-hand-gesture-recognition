@@ -9,23 +9,14 @@ This project implements a real-time hand gesture recognition system to control a
 - WebSocket Communication: Ensures low-latency, real-time drone control.
 - Flexible & Extendable: Can be adapted for various types of drones and expanded with additional gestures.
 
-**Pre-requisite:**<br/>
-```
-A pyparrot mambo dorne
-Python 3.x.x
-OpenCV-4.5
-MediaPipe-0.8.5
-Tensprflow 2.5.0
-Numpy-1.19.3
-pyparrot library
-```
-
-
-Turn on bluetooth of your Laptop and  turn On your mambo-drone.
+**Hardware setup:**<br/>
+Turn on bluetooth of your Laptop and  turn on your mambo-drone.
 
 **Runnig the code**<br/>
 Clone the repository
 1. Open the terminal using ctrl+Alt+Tab<br/>
+2. cd Drone-control-using-hand-gesture-recognition
+3. pip install -r requirements
 2. Run the Server.py file by typing the below command in terminal<br/>
 ```
 python3 server.py
