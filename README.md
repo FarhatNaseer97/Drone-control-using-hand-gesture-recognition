@@ -12,7 +12,7 @@ This project implements a real-time hand gesture recognition system to control a
 **Hardware setup:**<br/>
 Turn on bluetooth of your Laptop and  turn on your mambo-drone.
 
-**Runnig the code**<br/>
+**Software setup**<br/>
 Clone the repository
 1. Open the terminal using ctrl+Alt+Tab<br/>
 2. cd Drone-control-using-hand-gesture-recognition
