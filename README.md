@@ -15,11 +15,13 @@ Turn on bluetooth of your Laptop and  turn on your mambo-drone.
 **Software setup**<br/>
 Clone the repository
 1. Open the terminal using ctrl+Alt+Tab<br/>
-2. Clone the repository:
-   ```git clone https://github.com/FarhatNaseer97/Drone-control-using-hand-gesture-recognition.git```
-3. cd Drone-control-using-hand-gesture-recognition
-4. pip install -r requirements
-5. Run the Server.py file by typing the below command in terminal<br/>
+2. Clone the repository
+   ```
+   git clone https://github.com/FarhatNaseer97/Drone-control-using-hand-gesture-recognition.git
+   ```
+4. cd Drone-control-using-hand-gesture-recognition
+5. pip install -r requirements
+6. Run the Server.py file by typing the below command in terminal<br/>
 ```
 python3 server.py
 ```
